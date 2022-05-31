@@ -1,0 +1,8 @@
+﻿Public Class DatosNegocio
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Form2.Show()
+        ImagenesMenu1.Show()
+        Me.Hide()
+    End Sub
+End Class
